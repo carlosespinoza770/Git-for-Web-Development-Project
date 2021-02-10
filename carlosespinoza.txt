@@ -2,21 +2,21 @@ link to finish code pen https://codepen.io/carlosespinoza770/pen/PobGPQX?editors
 
 
 1. What is Semantic HTML? 
-    2. What is HTML used for? 
-    3. What is an attribute and where do we put it? 
-    4. What is the h1 tag used for? How many times should I use it on a page?
-    5. Name two tags that have required attributes
-    6. What do we put in the head of our HTML document? 
-    7. What is an id? 
-    8. What elements can I add an id to? 
-    9. How many times can I use the same id on a page? 
-    10. What is a class? 
-    11. What elements can I add a class to? 
-    12. How many times can I use the same class on a page? 
-    13. How do I get my link to open in a new tab?
-    14. What is the alt attribute in the image tag used for? 
-    15. How do I reference an id?
-    16. What is the difference between a section and a div
+    2. What is HTML used for? Html is used to structure a web page and its content.
+    3. What is an attribute and where do we put it? inside the opening tag 
+    4. What is the h1 tag used for? How many times should I use it on a page? Biggest header on a page you can use it as much as you need but mainly once.
+    5. Name two tags that have required attributes the img tag and src.
+    6. What do we put in the head of our HTML document? <!DOCTYPE html>
+    7. What is an id? points to a specific thing in your style sheet.
+    8. What elements can I add an id to? html
+    9. How many times can I use the same id on a page? once 
+    10. What is a class? class can apply to multiple elements 
+    11. What elements can I add a class to? html css 
+    12. How many times can I use the same class on a page? many times
+    13. How do I get my link to open in a new tab? you have to link it to the new tab
+    14. What is the alt attribute in the image tag used for? if the image doesnt pop up it reads something to you.
+    15. How do I reference an id? #
+    16. What is the difference between a section and a div. section defines chapter headers footers. div defines divisions.
     17. What is CSS used for? 
     18. How to we select an element? Example - every h2 on the page
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
@@ -46,3 +46,4 @@ Stretch Questions
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
+test
