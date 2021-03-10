@@ -1,8 +1,8 @@
-link to finish code pen https://codepen.io/carlosespinoza770/pen/PobGPQX?editors=1100
+link to finish code pen https://codepen.io/carlosespinoza770/pen/dyOQzpL?editors=1100
 
 
 1. What is Semantic HTML? 
-    2. What is HTML used for? Html is used to structure a web page and its content.
+    2. What is HTML used for? Html is used to structure a web page and its content. s 
     3. What is an attribute and where do we put it? inside the opening tag 
     4. What is the h1 tag used for? How many times should I use it on a page? Biggest header on a page you can use it as much as you need but mainly once.
     5. Name two tags that have required attributes the img tag and src.
